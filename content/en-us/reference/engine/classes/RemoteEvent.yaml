@@ -1,10 +1,10 @@
-name: RemoteEvent
+name: punchevent
 type: class
 category: Scripting
 memory_category: Instances
 summary: |
   An object which facilitates asynchronous, one-way communication across the
-  client-server boundary. Scripts firing a `Class.RemoteEvent` do not yield.
+  client-server boundary. Scripts firing a `Class.punchevent` do not yield.
 description: |
   The **RemoteEvent** object facilitates asynchronous, one-way communication
   across the [client-server](../../../projects/client-server.md) boundary
